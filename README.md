@@ -4,7 +4,7 @@ Dự án tiểu luận kết thúc học phần – Nghiên cứu tối ưu hóa
 
 ---
 
-## 📊 Tập dữ liệu thực nghiệm (Dataset)
+## Tập dữ liệu thực nghiệm (Dataset)
 * **Link bộ dữ liệu VQAv2:** [Hugging Face Datasets - VQAv2](https://huggingface.co/datasets/merve/vqav2-small)
 
 ---
