@@ -22,7 +22,8 @@ Dự án tiểu luận kết thúc học phần – Nghiên cứu tối ưu hóa
 ```text
 Visual-Assistant-BLIP-VQA/
 │
-├── README.md                      # Tài liệu hướng dẫn hệ thống (File này)
+├── README.md                      # Tài liệu hướng dẫn hệ thống 
+├── code.py                        # Mã train mô hình
 │
 └── working/
     ├── app.py                     # Mã nguồn chạy giao diện Web Demo (Local)
