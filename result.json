@@ -1,0 +1,182 @@
+[
+    {
+        "q": "Where are the kids riding?",
+        "a": "skatepark",
+        "gt": "carnival ride",
+        "acc": 0.0
+    },
+    {
+        "q": "Is this boy a good pitcher?",
+        "a": "yes",
+        "gt": "yes",
+        "acc": 1.0
+    },
+    {
+        "q": "What is the person wearing?",
+        "a": "wetsuit",
+        "gt": "wetsuit",
+        "acc": 1.0
+    },
+    {
+        "q": "How many sinks are in this bathroom?",
+        "a": "2",
+        "gt": "4",
+        "acc": 0.0
+    },
+    {
+        "q": "What sport are the girls playing?",
+        "a": "soccer",
+        "gt": "soccer",
+        "acc": 1.0
+    },
+    {
+        "q": "What is the object on the right?",
+        "a": "umbrella",
+        "gt": "umbrella",
+        "acc": 1.0
+    },
+    {
+        "q": "Is there an MP3 player on the table?",
+        "a": "yes",
+        "gt": "no",
+        "acc": 0.0
+    },
+    {
+        "q": "Was this picture taken from inside the room?",
+        "a": "yes",
+        "gt": "no",
+        "acc": 0.0
+    },
+    {
+        "q": "What color is the curb?",
+        "a": "gray",
+        "gt": "gray",
+        "acc": 1.0
+    },
+    {
+        "q": "How many sheep are there?",
+        "a": "2",
+        "gt": "1",
+        "acc": 0.0
+    },
+    {
+        "q": "Where was this photo taken?",
+        "a": "outside",
+        "gt": "la brea ave",
+        "acc": 0.0
+    },
+    {
+        "q": "What material is the building made out of?",
+        "a": "brick",
+        "gt": "brick",
+        "acc": 1.0
+    },
+    {
+        "q": "Is it daytime?",
+        "a": "yes",
+        "gt": "no",
+        "acc": 0.0
+    },
+    {
+        "q": "Is this an orchard?",
+        "a": "yes",
+        "gt": "yes",
+        "acc": 1.0
+    },
+    {
+        "q": "Is the camera on?",
+        "a": "no",
+        "gt": "no",
+        "acc": 1.0
+    },
+    {
+        "q": "Are the blinds closed?",
+        "a": "no",
+        "gt": "no",
+        "acc": 1.0
+    },
+    {
+        "q": "Are they on a ski slope?",
+        "a": "yes",
+        "gt": "yes",
+        "acc": 1.0
+    },
+    {
+        "q": "Is the man in the air?",
+        "a": "no",
+        "gt": "no",
+        "acc": 1.0
+    },
+    {
+        "q": "Have the candles been burned?",
+        "a": "no",
+        "gt": "no",
+        "acc": 1.0
+    },
+    {
+        "q": "Is the water calm?",
+        "a": "yes",
+        "gt": "no",
+        "acc": 0.0
+    },
+    {
+        "q": "Who is holding the baby?",
+        "a": "man",
+        "gt": "man",
+        "acc": 1.0
+    },
+    {
+        "q": "Where is the elephant in the photo?",
+        "a": "africa",
+        "gt": "watering hole",
+        "acc": 0.0
+    },
+    {
+        "q": "What print is on the blanket?",
+        "a": "plaid",
+        "gt": "plaid",
+        "acc": 1.0
+    },
+    {
+        "q": "What is the source of the red lines in the picture?",
+        "a": "tail lights",
+        "gt": "tail lights",
+        "acc": 1.0
+    },
+    {
+        "q": "Are any cars at the stoplight?",
+        "a": "no",
+        "gt": "no",
+        "acc": 1.0
+    },
+    {
+        "q": "What color is the sky?",
+        "a": "gray",
+        "gt": "blue",
+        "acc": 0.0
+    },
+    {
+        "q": "How many people can sit on this motorcycle?",
+        "a": "2",
+        "gt": "2",
+        "acc": 1.0
+    },
+    {
+        "q": "How old is the white horse?",
+        "a": "old",
+        "gt": "old",
+        "acc": 1.0
+    },
+    {
+        "q": "Is anyone sitting on this bike?",
+        "a": "no",
+        "gt": "yes",
+        "acc": 0.0
+    },
+    {
+        "q": "What color is the plate?",
+        "a": "white",
+        "gt": "white",
+        "acc": 1.0
+    }
+]
