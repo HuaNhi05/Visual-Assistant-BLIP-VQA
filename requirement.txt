@@ -1,0 +1,9 @@
+#Cài đặt thư viện huggingface_hub
+!pip install huggingface_hub
+
+#Tải dataset từ Hugging face về thư mục hiện tại trên Kaggle
+from huggingface_hub import snapshot_download
+
+path = snapshot_download(repo_id=“merve/vqav2-small”,
+					repo_type=“dataset”,
+					local_dir=“/kaggle/working/vqav2_data”)
