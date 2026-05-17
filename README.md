@@ -24,6 +24,7 @@ Visual-Assistant-BLIP-VQA/
 │
 ├── README.md                      # Tài liệu hướng dẫn hệ thống 
 ├── code.py                        # Mã train mô hình
+├── requirement.txt                # Mã cài đặt thư viện
 │
 └── working/
     ├── app.py                     # Mã nguồn chạy giao diện Web Demo (Local)
