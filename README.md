@@ -4,6 +4,11 @@ Dự án tiểu luận kết thúc học phần – Nghiên cứu tối ưu hóa
 
 ---
 
+## 📊 Tập dữ liệu thực nghiệm (Dataset)
+* **Link bộ dữ liệu VQAv2:** [Hugging Face Datasets - VQAv2](https://huggingface.co/datasets/merve/vqav2-small)
+
+---
+
 ## Tính năng cốt lõi của hệ thống
 * **Full-parameter Fine-tuning:** Tinh chỉnh toàn phần hệ thống trọng số của mô hình nền tảng BLIP-Large bằng thuật toán tối ưu hóa `AdamW` để thiết lập đường cơ sở chuẩn (Baseline Score).
 * **Greedy Decoding Strategy:** Kích hoạt cơ chế giải mã tham lam (`num_beams=1`) trong quá trình suy luận, tối ưu hóa tốc độ phát sinh từ ngữ thời gian thực và bám sát các câu trả lời ngắn súc tích.
